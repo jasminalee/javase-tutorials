@@ -1,2 +1,2 @@
-# javase_tutorials
-javase_tutorials
+# javase-tutorials
+javase-tutorials
